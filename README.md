@@ -47,3 +47,20 @@ These are the SiIvagunner track names.
 	- YO-KAI Disco (Hell's Entrance World) (OST Version)
 	- YO-KAI Disco (Hell's Entrance World) (OST Mix)
 	- YO-KAI Disco (Hell's Entrance World) (In-Game Version)
+
+### [Takis the Fox](https://sites.google.com/view/takisthefox/home)
+
+	Hotel Mario
+	- Reading the Letter
+	- Reading the Letter (Bowser's Seizures Palace Hotel)
+
+### [S3 Sonic](https://mb.srb2.org/addons/s3-sonic.6001/)
+
+	Sonic the Hedgehog 3 & Knuckles
+	- S3 Invincible (Beta Version)
+	- S3 Invincible (Nov 3, 1993 prototype)
+	- S3 Invincible (NTSC Version)
+	- S3 Invincible (Alpha Mix)
+	- S3 Invincible (OST Version)
+	- S3 Invincible (Unused Version)
+	- S3 Invincible (Extended Version)
