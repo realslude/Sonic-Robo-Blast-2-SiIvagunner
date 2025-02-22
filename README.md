@@ -57,3 +57,11 @@ These are the SiIvagunner track names.
 	- Competition Menu (Nov 3, 1993 prototype)
 	- S3 Extra Life
 	- Act Clear
+
+### [Adventure Sonic](https://mb.srb2.org/addons/adventure-sonic-v1-8b.3589/)
+
+	Sonic Adventure
+	- Hey You! It's Time to Speed Up!!!
+	- Stage Clear
+	Sonic Generations
+	- Super Sonic
