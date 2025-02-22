@@ -40,13 +40,6 @@ These are the SiIvagunner track names.
 
 	Mamorukun Curse!
 	- YO-KAI Disco (Hell's Entrance World) 
-	- YO-KAI Disco (Hell's Entrance World) (Beta Mix)
-	- YO-KAI Disco (Hell's Entrance World) (Alpha Mix)
-	- YO-KAI Disco (Hell's Entrance World) (Alternetive Mix)
-	- YO-KAI Disco (Hell's Entrance World) (Beta Version)
-	- YO-KAI Disco (Hell's Entrance World) (OST Version)
-	- YO-KAI Disco (Hell's Entrance World) (OST Mix)
-	- YO-KAI Disco (Hell's Entrance World) (In-Game Version)
 
 ### [Takis the Fox](https://sites.google.com/view/takisthefox/home)
 
@@ -57,10 +50,10 @@ These are the SiIvagunner track names.
 ### [S3 Sonic](https://mb.srb2.org/addons/s3-sonic.6001/)
 
 	Sonic the Hedgehog 3 & Knuckles
-	- S3 Invincible (Beta Version)
-	- S3 Invincible (Nov 3, 1993 prototype)
-	- S3 Invincible (NTSC Version)
-	- S3 Invincible (Alpha Mix)
-	- S3 Invincible (OST Version)
-	- S3 Invincible (Unused Version)
 	- S3 Invincible (Extended Version)
+	- Game Over
+	- Competition Menu
+	- Competition Menu (In-Game Version)
+	- Competition Menu (Nov 3, 1993 prototype)
+	- S3 Extra Life
+	- Act Clear
