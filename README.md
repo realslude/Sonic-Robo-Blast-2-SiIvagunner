@@ -40,6 +40,10 @@ These are the SiIvagunner track names.
 
 	Mamorukun Curse!
 	- YO-KAI Disco (Hell's Entrance World) 
+	- Bless you! boy (Prologue 1) (NTSC Version)
+	- Lost Wind (Ice Village World - Second Half)
+	- Superhero (False Final Stage)
+	- Mantra (Final Boss 1)
 
 ### [Takis the Fox](https://sites.google.com/view/takisthefox/home)
 
