@@ -69,3 +69,10 @@ These are the SiIvagunner track names.
 	- Stage Clear
 	Sonic Generations
 	- Super Sonic
+
+### [SRB2: Epic ""Mini""games](https://discord.gg/GTHwaPT6Rb)*
+
+	Mario Kart Wii
+	- Nintendo WFC
+
+`* Name isn't final`
