@@ -74,3 +74,7 @@ These are the SiIvagunner track names.
 
 	Mario Kart Wii
 	- Nintendo WFC
+	Super Mario RPG
+	- Sad Song (Alpha Mix)
+	The Flintstones (SNES)
+	- Unused Song 2
