@@ -78,3 +78,8 @@ These are the SiIvagunner track names.
 	- Sad Song (Alpha Mix)
 	The Flintstones (SNES)
 	- Unused Song 2
+
+### [SRB5b](https://mb.srb2.org/addons/srb5b-bfdia-5b.6216/)
+
+	BFDIA 5b
+	- The Fiber (Ambient)
