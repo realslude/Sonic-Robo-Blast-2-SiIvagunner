@@ -83,3 +83,9 @@ These are the SiIvagunner track names.
 
 	BFDIA 5b
 	- The Fiber (Ambient)
+
+### [Smb2 accurate Mario bros](https://mb.srb2.org/addons/smb2-accurate-mario-bros.7636/)
+
+	Super Mario Bros.
+	- Course Clear Fanfare (Beta Mix)
+	- Invincible (Unused Version)
