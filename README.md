@@ -70,13 +70,7 @@ These are the SiIvagunner track names.
 	Sonic Generations
 	- Super Sonic
 
-### [SRB2: Epic ""Mini""games](https://discord.gg/GTHwaPT6Rb)*
+### [SRB2: All-Stars](https://discord.gg/GTHwaPT6Rb)
 
 	Mario Kart Wii
 	- Nintendo WFC
-	Dr. Robotnik's Mean Bean Machine
-	- Stages 1-4 (OST Version)
-	- Stages 5-8
-	- 2 Player vs. (Beta Mix)
-
-`* Name isn't final`
