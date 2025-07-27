@@ -10,14 +10,13 @@ This mod replaces several tracks from Sonic Robo Blast 2 with their respective S
 4. Go to one of the stages listed below and enjoy the music!
 
 If there are multiple rips, the second one will start when the first one has finished.
+Not all songs will use all their rips as it would very heavy in file size. 
 
-`siiva_music.wad` only contains vanilla song replacements whilst `siiva_modded.wad` contains rips for songs in addons
-
-## Replaced Songs
-These are the SiIvagunner track names.
+## Vanilla Songs
 
 `siiva_music.wad`
 
+	Sonic Robo Blast 2 (v2.2)
 	- Arid Canyon Zone, Act 1 (v2.2.8)
 	- Arid Canyon Zone, Act 1
 	- Egg Rock Zone, Act 2 (Beta Mix)
@@ -29,10 +28,12 @@ These are the SiIvagunner track names.
 	- Red Volcano Zone, Act 2
 	- Techno Hill Zone, Act 2
 	- Vs. Dr. Eggman
+	Sonic Robo Blast 2
 	- Greenflower Zone, Act 1 (v1.0 Release) (Beta Mix)
 	- Greenflower Zone Act 1 (v1.0 Release)
 
-## The following tracks are for addons. Each addon will be in their own section and will include a link to their page
+## Addon Songs
+### Each addon header will link to their respective page
 
 `siiva_modded.wad`
 
