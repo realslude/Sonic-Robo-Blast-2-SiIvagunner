@@ -3,12 +3,10 @@ name: just send commits
 on:
   push:
     paths-ignore:
-        - '**.md'
         - '.github/**'
         - '.gitignore'
   pull_request:
     paths-ignore:
-        - '**.md'
         - '.github/**'
         - '.gitignore'
 
