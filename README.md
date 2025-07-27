@@ -90,3 +90,9 @@ Not all songs will use all their rips as it would very heavy in file size.
 	Super Mario Bros.
 	- Course Clear Fanfare (Beta Mix)
 	- Invincible (Unused Version)
+
+### [Soap the Hedge!](https://discord.gg/DWf2DvFX6z)
+
+	Kirby Super Star
+	- Mine Cart Riding*
+	* replaces a sfx
