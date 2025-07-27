@@ -96,3 +96,15 @@ Not all songs will use all their rips as it would very heavy in file size.
 	Kirby Super Star
 	- Mine Cart Riding*
 	* replaces a sfx
+
+### [SMW Luigi](https://discord.gg/jvpuGCGnTJ)
+
+	Super Mario World
+	- Invincible Theme
+	- Course Clear
+	- Fortress Boss
+	- Player Down (Unused)
+	- Game Over (JP Version)
+	- The Evil King Bowser (NTSC Version)
+	- Ending Theme (OST Version)
+	- Koopa Kid Castle Clear
